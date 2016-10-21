@@ -1,0 +1,91 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1453423646",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "A <<<variable>>> is a container for a value which can change while a program is running. A value stored in a <<<constant>>> does not change.",
+   "tokens": {
+    "blank": [
+     "variable",
+     "constant"
+    ],
+    "text": [
+     "A ",
+     0,
+     " is a container for a value which can change while a program is running. A value stored in a ",
+     0,
+     " does not change."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1806776008",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**State whether the following Boolean operator would return true or false.**\n\n```\nnumber = 27\nif number + 3 >= 30 then\n      result = True\nelse\n      result = False\nendif\n``` ",
+   "points": "1",
+   "showValues": false,
+   "text": "Enter either ‘T’ or ‘F’ :<<<T>>> ",
+   "tokens": {
+    "blank": [
+     "T"
+    ],
+    "text": [
+     "Enter either ‘T’ or ‘F’ :",
+     0,
+     " "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1864724802",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**State whether the following Boolean operator would return true or false.**\n\n```\nnumber = 27\nif NOT(number + 3) <= 30 then\n      result = True\nelse\n      result = False\nendif",
+   "points": "1",
+   "showValues": false,
+   "text": "Enter either ‘T’ or ‘F’: <<<T>>>",
+   "tokens": {
+    "blank": [
+     "T"
+    ],
+    "text": [
+     "Enter either ‘T’ or ‘F’: ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2298102678",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**State whether the following Boolean operator would return true or false.**\n\n```\nnumber = 27\nif number + 3 != 30 then\n      result = True\nelse\n      result = False\nendif",
+   "points": "1",
+   "showValues": false,
+   "text": "Enter either ‘T’ or ‘F’: <<<F>>>",
+   "tokens": {
+    "blank": [
+     "F"
+    ],
+    "text": [
+     "Enter either ‘T’ or ‘F’: ",
+     0
+    ]
+   }
+  }
+ }
+]

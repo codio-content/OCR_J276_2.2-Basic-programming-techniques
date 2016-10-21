@@ -1,0 +1,95 @@
+{
+ "sections": [
+  {
+   "id": "3559f5db-fc73-30b3-9fbd-cde3c120af34",
+   "title": "Basic programming techniques ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Basic-programming-techniques--3559.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "17d896a9-5ef0-3e97-79b4-f16ff915b628",
+   "title": "Variables and constants",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Variables-and-constants-17d8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a2b19f00-962a-6eee-8d0f-76ee3c1a8a37",
+   "title": "Operators",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Operators-a2b1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b4f8a9d7-e094-4812-bf2f-423c96921610",
+   "title": "Boolean operators",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Boolean-operators-b4f8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c8e80f2c-2128-38c9-0d17-17d6129b0919",
+   "title": "Programming constructs",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Programming-constructs-c8e8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "03106c57-a4be-f11a-33dc-3c19ae9006a8",
+   "title": "Iteration",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Iteration-0310.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "58cb2a06-1cf4-d000-c69e-b51af888578c",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-58cb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e9c4fd07-7474-cccf-5991-3dfd678c904c",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-e9c4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
