@@ -15,9 +15,9 @@ Variable identifiers should be as descriptive as possible so that anyone reading
 
 For example a variable to store the age of a person should have the identifier ‘age’ rather than ‘X’ so that its intention is obvious.
 
-One convention when writing longer or compound identifiers is to use **camel case** where each word begins with an upper case character – usually except the first e.g. ageOfperson, distanceFromSchool, testResult
+One convention when writing longer or compound identifiers is to use **camel case** where each word begins with an upper case character – usually except the first e.g. ageOfPerson, distanceFromSchool, testResult
 
-Identifiers should be a short as possible so that there is less chance of them being misspelt when coding the algorithm.
+Identifiers should be as short as possible so that there is less chance of them being misspelt when coding the algorithm.
 
 A **constant** is a container which is used to store a value which must **not** change as a program is running.
 

@@ -12,13 +12,13 @@ It is often called **definite iteration**.
 
 ```
 for index == 0 to 9
-`print(“This is number “ + index)
+  print(“This is number “ + index)
 next index   //This closes the loop and redirects processing back
              //to the start while ‘index’ is within the range 0 to 9. 
              //The value of ‘index’ is incremented at each turn of the loop.
 ```
 
-## Condition controlled iteration**
+## Condition controlled iteration
 These loops turn until a certain condition is met.
 
 ### While
@@ -37,7 +37,7 @@ Note that the variable to be checked must be declared and a value assigned befor
 This is similar to the while loop but the comparison is not done until the end of the code and so it will execute at least once.
 ```
 do
-`selection = input(“Please enter your name.”)
+  selection = input(“Please enter your name.”)
 until selection != ””
 ```
 
